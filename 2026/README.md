@@ -2,7 +2,7 @@
 
 **Xodia** is the AI/RL game-bot event at **Credenz**, the PICT IEEE Student Branch's annual technical fest. The **Credenz 2026** edition was themed on *Stranger Things*. Participants trained **three separate Q-learning agents**, one for each of three "universes", and every universe had its own objective, reward function and adversaries. The organisers did not solve an RL problem here: they *designed* one, building the environments, the game engine, the submission template and a fair evaluation pipeline.
 
-> Part of [`xodia`](../README.md), one folder per year. Credenz '25 Xodia (Angry Birds, PPO) is in [`2025/`](../2025/). All Credenz events are listed in [`credenz`](https://github.com/PICT-IEEE-Student-Branch/credenz).
+> Part of [`xodia`](../README.md), one folder per year. Credenz '25 Xodia (Angry Birds, PPO) is in [`2025/`](../2025/). All Credenz events are listed in [the org page](https://github.com/PICT-IEEE-Student-Branch).
 
 | Find Will | Escape Room | Fight Vecna |
 |---|---|---|

@@ -35,4 +35,4 @@ New to Git? The step-by-step push guide is here: [**How to push to PISB GitHub**
 
 ---
 
-Part of the [PICT IEEE Student Branch](https://github.com/PICT-IEEE-Student-Branch) · See all [Credenz events](https://github.com/PICT-IEEE-Student-Branch/credenz)
+Part of the [PICT IEEE Student Branch](https://github.com/PICT-IEEE-Student-Branch) · See all [Credenz events](https://github.com/PICT-IEEE-Student-Branch)
